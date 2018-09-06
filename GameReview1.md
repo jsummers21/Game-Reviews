@@ -1,6 +1,6 @@
 # Game-Reviews
 ## Details:
-Game Title: Respawn
+### Game Title: Respawn
 
 Game functions:
 - Basic character movement - movement left and right, jumping
