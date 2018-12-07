@@ -1,17 +1,17 @@
 # Game-Reviews
 ## Details:
-### Game Title: Respawn
+### Game Title: Terraria
 
 Game functions:
 - Basic character movement - movement left and right, jumping
 - Respawning after death
-- Throwing Respawn Device
-- Respawning Respawn Device
-- death of player
-- destruction of respawn device.
+- Attacking
+- Placing blocks
+- Crafting
+- Healing
 
 ## Summary:
-The game is about a scientist named Seth, who created a respawn machine, being attacked by an evil scientist who wants to steal the respawn machine Seth created. Seth has to use the respawn device to escape the evil scientists' minions by throwing the device to relatively safe places, then dying in order to respawn where the device was thrown. There are levels such as the first where Seth is escaping the minions  of the evil scientist from rooftop to rooftop or the second level where Seth is captured and has to escape the facility he is in.
+Terraria is a sandbox adventure game developed by Re-Logic where the player can choose to live his/her life playing the game however they please. The player can do multiple things whether it be exploring, fighting, building, or even fishing. There is progress in the game where certain items cannot be accessed until the player defeats a certain boss to make them accessable. There are also different styles in which the player can play the game such as using magic, ranged fighting, melee, or a combination of it all in order to get deeper into the game. Even when the game is thought to be "completed" there are still multiple things the player can do such as upgrading weaponry, building structures, fishing, or even attempting to become the richest player, the possibilities in the game are seamingly endless.
 
 ## Final Thoughts:
-The game was fun as it did keep me focused on the game. There was a situation where Seth was able to stand on top of the minions head after falling off an elevator and landing on top of the minion. Whether that was intentional of not, it was pretty funny. The game was unique in using death as a way of progression in the game whereas other games use it as an obstacle.
+The game is exciting because there is almost always something to do. You can play with your friends on a server and compete with eachother or play through the game together. Each boss fight has its own difficulty for the player as the better and harder to obtain items are not accessable until specific bosses are slain making it hard for the player each boss fight. It is an enjoyable game and is my personal reccomendation for a 2D sidescroller to play.
